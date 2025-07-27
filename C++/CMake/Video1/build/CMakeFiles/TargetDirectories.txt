@@ -1,0 +1,3 @@
+/home/matarawy/Embedded_Linux_Practice/CMake/Video1/build/CMakeFiles/hellobinary.dir
+/home/matarawy/Embedded_Linux_Practice/CMake/Video1/build/CMakeFiles/edit_cache.dir
+/home/matarawy/Embedded_Linux_Practice/CMake/Video1/build/CMakeFiles/rebuild_cache.dir

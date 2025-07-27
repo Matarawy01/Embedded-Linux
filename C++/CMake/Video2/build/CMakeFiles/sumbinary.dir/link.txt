@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sumbinary.dir/main.cpp.o CMakeFiles/sumbinary.dir/src/calc.cpp.o -o sumbinary 
